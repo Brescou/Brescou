@@ -13,9 +13,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/brescou_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brescou_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/thomas rivemale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thomas rivemale" height="30" width="40" /></a>
+<a href="https://twitter.com/brescou_t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brescou_t" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/thomas-rivemale-618a51b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thomas-rivemale-618a51b3" height="30" width="40" /></a>
 <a href="https://kaggle.com/thomas brescou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="thomas brescou" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/user0295ld" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user0295ld" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
