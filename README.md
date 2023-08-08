@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thomas Rivemale alias Brescou</h1>
-<h3 align="center">I am a passionate full-stack developer with a particular fondness for Python. In the ever-evolving world of technology, I've channeled my natural curiosity into uncovering insights from data, ensuring that I constantly refine my skills and bring a fresh perspective to each project.
+<p align="center">I am a passionate full-stack developer with a particular fondness for Python. In the ever-evolving world of technology, I've channeled my natural curiosity into uncovering insights from data, ensuring that I constantly refine my skills and bring a fresh perspective to each project.
 
 There's something exhilarating about diving deep into the data, unraveling its mysteries, and leveraging it to solve real-world problems. This enthusiasm isn't just confined to my professional life. I am someone who always seeks new knowledge, be it through travel, reading, or simply conversing with different individuals from various walks of life.
 
@@ -7,7 +7,7 @@ Outside the realm of code and data, I'm an avid gamer and basketball enthusiast.
 
 Currently, I'm pursuing my master's degree in data science, aiming to merge my love for development and data to create innovative solutions. With every line of code I write and every dataset I analyze, I hope to make a positive impact on the digital landscape.
 
-Looking forward to collaborating and sharing our mutual passions!</h3>
+Looking forward to collaborating and sharing our mutual passions!</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brescou&label=Profile%20views&color=0e75b6&style=flat" alt="brescou" /> </p>
 
