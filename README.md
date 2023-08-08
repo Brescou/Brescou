@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Thomas Rivemale alias Brescou</h1>
-<h3 align="center">As a passionate and dedicated Full Stack developer, I seek to join an innovative company where I can use and improve my programming skills. I aspire to gain expertise in machine learning and data management to develop efficient and advanced technological solutions. My goal is to grow professionally, contribute to the company's success, and stay at the forefront of technological innovation.</h3>
+<h3 align="center">I am a passionate full-stack developer with a particular fondness for Python. In the ever-evolving world of technology, I've channeled my natural curiosity into uncovering insights from data, ensuring that I constantly refine my skills and bring a fresh perspective to each project.
+
+There's something exhilarating about diving deep into the data, unraveling its mysteries, and leveraging it to solve real-world problems. This enthusiasm isn't just confined to my professional life. I am someone who always seeks new knowledge, be it through travel, reading, or simply conversing with different individuals from various walks of life.
+
+Outside the realm of code and data, I'm an avid gamer and basketball enthusiast. Whether it's executing a perfect play in a game or scoring a basket in real life, I believe in giving my best and enjoying the moment to its fullest.
+
+Currently, I'm pursuing my master's degree in data science, aiming to merge my love for development and data to create innovative solutions. With every line of code I write and every dataset I analyze, I hope to make a positive impact on the digital landscape.
+
+Looking forward to collaborating and sharing our mutual passions!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brescou&label=Profile%20views&color=0e75b6&style=flat" alt="brescou" /> </p>
 
