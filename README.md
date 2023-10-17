@@ -15,7 +15,7 @@ Looking forward to collaborating and sharing our mutual passions!</p>
 
 - 💬 Ask me about **Python and Flask**
 
-- 📫 How to reach me **rivemale.thomas@gmail.com**
+- 📫 How to reach me **brescou.thomas@gmail.com**
 
 - ⚡ Fun fact **I love BasketBall and Gaming**
 
