@@ -11,7 +11,7 @@ Looking forward to collaborating and sharing our mutual passions!</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brescou&label=Profile%20views&color=0e75b6&style=flat" alt="brescou" /> </p>
 
-- 🌱 I’m currently learning **Aws, UE5, Data sciences**
+- 🌱 I’m currently learning **AWS, Data sciences**
 
 - 💬 Ask me about **Python and Flask**
 
