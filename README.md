@@ -3,7 +3,7 @@
 
 There's something exhilarating about diving deep into the data, unraveling its mysteries, and leveraging it to solve real-world problems. This enthusiasm isn't just confined to my professional life. I am someone who always seeks new knowledge, be it through travel, reading, or simply conversing with different individuals from various walks of life.
 
-Outside the realm of code and data, I'm an avid gamer and basketball enthusiast. Whether it's executing a perfect play in a game or scoring a basket in real life, I believe in giving my best and enjoying the moment to its fullest.
+Outside the realm of code and data, I'm an gamer and basketball enthusiast. Whether it's executing a perfect play in a game or scoring a basket in real life, I believe in giving my best and enjoying the moment to its fullest.
 
 Currently, I'm pursuing my master's degree in data science, aiming to merge my love for development and data to create innovative solutions. With every line of code I write and every dataset I analyze, I hope to make a positive impact on the digital landscape.
 
